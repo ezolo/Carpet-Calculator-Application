@@ -26,6 +26,7 @@
 
 ### 3️⃣ Clearing Form ###
 > If the user notices an issue with their entered information and/or if the user wants to start over their form, they will be able to clear their form using the clear button at the bottom of the screen.
+>
 > ![](https://i.imgur.com/GqzxR3d.png)
 
 
